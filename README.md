@@ -18,8 +18,5 @@ super-digit(98741) = super-digit(9+8+7+4+1)
                   = 2.
 ```
 
-You can check contest bye-laws [here](http://tech.viacom.com/warsawsdc/confitura2015/Regulamin_konkurs_Viacom_programmer_adventure_2015.pdf).
-
-Check out our Confitura 2015 site [here](http://tech.viacom.com/warsawsdc/confitura2015/)
-
-We are hiring! Visit our [career site](http://tech.viacom.com/careers/).
+## Solution
+See [SuperDigit.superDigit(n: Int)](src/main/scala/pl/ts/SuperDigit.scala)
